@@ -28,7 +28,7 @@ $System_Config['subUrl'] = $System_Config['baseUrl'].'/link/';	//订阅地址，
 $System_Config['muKey'] = 'sspanel-mukey';								//用于校验ss-go mu的请求，可以随意修改，但请保持前后端一致
 $System_Config['db_driver'] = 'mysql';							//数据库程序
 $System_Config['db_host'] = 'localhost';						//数据库地址
-$System_Config['db_database'] = 'spanel-db-databasename';						//数据库名
+$System_Config['db_database'] = 'sspanel-db-databasename';						//数据库名
 $System_Config['db_username'] = 'sspanel-db-username';							//数据库用户名
 $System_Config['db_password'] = 'sspanel-db-password';						//用户名对应的密码
 
